@@ -1,6 +1,6 @@
 
 
-# <img src="https://eitaa.com/assets/images/logos/site-logo-larg.png" width="30" /> eitaa-mod | نسخه بدون تبلیغات ایتا
+# eitaa-mod <img src="https://eitaa.com/assets/images/logos/site-logo-larg.png" width="30" /> نسخه بدون تبلیغات ایتا
 
 ### ویژگی ها:
 - حذف تبلیغات جایگاه یک (top chats list)
