@@ -7,7 +7,7 @@
 - حذف تبلیغات جایگاه دو (Eitaa Trends & group member)
 - حذف قابلیت انتقال با واسطه به لینک های خارجی ([اطلاعات بیشتر](https://github.com/cigeration/Eitaa-Mod/blob/main/ExternalLinkRedirect.md))
 
-###    نصب:
+###    نصب اولیه:
 
 1. آخرین نسخه ایتامُد را از [اینجا](https://github.com/cigeration/eitaa-mod/releases) دانلود کنید
 2. ایتای فعلی را از دستگاه حذف کنید (رسانه ها در cache دستگاه باقی می‌مانند؛ ولی میبایست دوباره وارد اکانت بشید)
