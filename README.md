@@ -19,6 +19,7 @@
 
 ### To-Do:
 - [ ] fixing bug of ActionBarDefault color, when the custom theme applies
+- [ ] removing Eitaa Trends icon from main app page
 
 suggest me that you want to be in my To-Do list :)
 
