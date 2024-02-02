@@ -20,7 +20,7 @@
 ### To-Do:
 - [ ] fixing bug of ActionBarDefault color, when the custom theme applies
 - [ ] removing "Eitaa Trends" button icon from the main page
-- [ ] removing "Go To First Message" & "Eitaa Services" button from chat options
+- [ ] removing "Eitaa Services" button from chat options & message options
 - [ ] trying to merge "Forward" and "Forward without Quoting" buttons
 - [ ] removing Saved Messages button icon; placed next to Channel posts 
 
