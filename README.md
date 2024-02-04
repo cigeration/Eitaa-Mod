@@ -15,7 +15,7 @@
 
 
 
->**نکته:** با نصب ایتامد دیگر قادر به آپدیت برنامه از استور های رسمی نیستید. برای آپدیت میبایست نسخه جدید را پس از قرار گرفتن در این صفحه دانلود و نصب کنید.
+>**نکته:** با نصب ایتامُد دیگر قادر به آپدیت برنامه از استور های رسمی نیستید. برای آپدیت میبایست نسخه جدید را پس از قرار گرفتن در این صفحه دانلود و نصب کنید.
 
 ### To-Do:
 - [ ] fixing bug of ActionBarDefault color, when the custom theme applies
@@ -24,7 +24,8 @@
 - [ ] trying to merge "Forward" and "Forward without Quoting" buttons
 - [ ] removing Saved Messages button icon; placed next to Channel posts 
 
-suggest me that you want to be in my To-Do list :)
+### ارتباط:
+هر ایده ای، نقدی، نظری، پشنهادی در خصوص ایتامُد دارید [اینجا](veilmsg.pythonanywhere.com/user/cigeration) برام بنویسید.
 
 
 # 
