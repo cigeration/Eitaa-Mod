@@ -25,7 +25,7 @@
 - [ ] removing Saved Messages button icon; placed next to Channel posts 
 
 ### ارتباط:
-هر ایده ای، نقدی، نظری، پشنهادی در خصوص ایتامُد دارید [اینجا](veilmsg.pythonanywhere.com/user/cigeration) برام بنویسید.
+هر ایده ای، نقدی، نظری، پشنهادی در خصوص ایتامُد دارید [اینجا](https://veilmsg.pythonanywhere.com/user/cigeration) برام بنویسید.
 
 
 # 
