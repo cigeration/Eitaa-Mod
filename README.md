@@ -22,7 +22,7 @@
 - [x] removing "Eitaa Trends" button icon from the main page
 - [ ] removing "Eitaa Services" button from chat options & message options
 - [ ] trying to merge "Forward" and "Forward without Quoting" buttons
-- [ ] removing Saved Messages button icon; placed next to Channel posts 
+- [x] removing Saved Messages button icon; placed next to Channel posts 
 
 ### ارتباط:
 هر ایده ای، نقدی، نظری، پشنهادی در خصوص ایتامُد دارید [اینجا](https://veilmsg.pythonanywhere.com/user/cigeration) برام بنویسید.
