@@ -20,7 +20,7 @@
 >**نکته:** با نصب ایتامُد دیگر قادر به آپدیت برنامه از استور های رسمی نیستید. برای آپدیت میبایست نسخه جدید را پس از قرار گرفتن در این صفحه دانلود و نصب کنید.
 
 ### ارتباط:
-هر ایده ای، نقدی، نظری، پشنهادی در خصوص ایتامُد دارید [اینجا](https://veilmsg.pythonanywhere.com/user/cigeration) برام بنویسید. (or just open an issue)
+هر ایده ای، نقدی، نظری، پیشنهادی در خصوص ایتامُد دارید [اینجا](https://veilmsg.pythonanywhere.com/user/cigeration) برام بنویسید. (or just open an issue)
 
 ### To-Do:
 - [x] fixing bug of ActionBarDefault color, when the custom theme applies
