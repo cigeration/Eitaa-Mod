@@ -4,10 +4,12 @@
 ### 2. حذف دکمه ذخیره پست در Saved Messages
 ![](sources/diffrences-01.jpg)
 
-### 3. حذف دکمه Service request، حذف دکمه Forward without Quoting و جایگزینی آیکن‌اش با Forward (مشابه تلگرام)
+### 3. حذف دکمه Service request؛ حذف دکمه Forward without Quoting و جایگزینی آیکن‌اش با Forward (مشابه تلگرام)
 ![](sources/diffrences-04.jpg)
 
 ![](sources/diffrences-03.jpg)
 
 ### 4. حذف دکمه  Eitaa Service از گزینه های چت
 ![](sources/differences-05.jpg)
+
+(این تغییرات در راستای سادگی و زیبایی بیشتر رابط کاربری انجام شده)
