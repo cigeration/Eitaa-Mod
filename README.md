@@ -7,6 +7,7 @@
 - حذف تبلیغات جایگاه دو (Eitaa Trends & group member)
 - حذف قابلیت انتقال با واسطه به لینک های خارجی ([اطلاعات بیشتر](differences/ExternalLinkRedirect.md))
 - حذف برخی شلوغی های رابط کاربری و تشابه بیشتر به تلگرام ([لیست تغییرات](differences/UIsimplification.md))
+- اصلاح باگ رنگ بالای صفحه اصلی؛ پس از اعمال فایل تم
 
 ### نصب اولیه:
 
@@ -22,7 +23,7 @@
 هر ایده ای، نقدی، نظری، پشنهادی در خصوص ایتامُد دارید [اینجا](https://veilmsg.pythonanywhere.com/user/cigeration) برام بنویسید. (or just open an issue)
 
 ### To-Do:
-- [ ] fixing bug of ActionBarDefault color, when the custom theme applies
+- [x] fixing bug of ActionBarDefault color, when the custom theme applies
 - [x] removing "Eitaa Trends" button icon from the main page
 - [x] removing "Eitaa Services" button from chat options & message options
 - [x] trying to merge "Forward" and "Forward without Quoting" buttons
