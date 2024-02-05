@@ -23,9 +23,9 @@
 هر ایده ای، نقدی، نظری، پیشنهادی در خصوص ایتامُد دارید [اینجا](https://veilmsg.pythonanywhere.com/user/cigeration) برام بنویسید. (or just open an issue)
 
 ### 💸 حمایت:
-هر چقدر که ایتامُد رو دوست داشتین، میتونید [اینجا](https://mehremahdavi.ir/) برام جبران کنید.
+هر چقدر که ایتامُد رو دوست داشتین، میتونید [اینجا](https://mehremahdavi.ir/) برام جبران کنید ❤
 
-### To-Do:
+### 📄 To-Do:
 - [x] fixing bug of ActionBarDefault color, when the custom theme applies
 - [x] removing "Eitaa Trends" button icon from the main page
 - [x] removing "Eitaa Services" button from chat options & message options
