@@ -5,7 +5,7 @@
 ### ویژگی ها:
 - حذف تبلیغات جایگاه یک (top chats list)
 - حذف تبلیغات جایگاه دو (Eitaa Trends & group member)
-- حذف قابلیت انتقال با واسطه به لینک های خارجی ([اطلاعات بیشتر](https://github.com/cigeration/Eitaa-Mod/blob/main/ExternalLinkRedirect.md))
+- حذف قابلیت انتقال با واسطه به لینک های خارجی ([اطلاعات بیشتر](https://github.com/cigeration/Eitaa-Mod/blob/main/differences/ExternalLinkRedirect.md))
 - حذف برخی شلوغی های رابط کاربری و تشابه بیشتر به تلگرام
 
 ### نصب اولیه:
