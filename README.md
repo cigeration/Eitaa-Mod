@@ -1,6 +1,6 @@
 
 
-# Eitaa Mod <img src="https://eitaa.com/assets/images/logos/site-logo-larg.png" width="30" /> ایتامود
+# Eitaa Mod <img src="differences/sources/ic_launcher.png" width="30" /> ایتامود
 
 ### 🌟 ویژگی ها:
 - حذف تبلیغات جایگاه یک (top chats list)
