@@ -1,7 +1,7 @@
 
 
 # Eitaa Mod <img src="differences/sources/ic_launcher.png" width="30" /> ایتامود
-
+## v6.4.14 coming soon...
 ### 🌟 ویژگی ها:
 - حذف تبلیغات جایگاه یک (top chats list)
 - حذف تبلیغات جایگاه دو (Eitaa Trends & group member)
