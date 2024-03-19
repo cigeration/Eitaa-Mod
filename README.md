@@ -1,7 +1,6 @@
 
 
 # Eitaa Mod <img src="differences/sources/ic_launcher.png" width="30" /> ایتامود
-### نسخه 6.4.14 منتشر شد ([دانلود](https://github.com/cigeration/Eitaa-Mod/releases/tag/v6.4.14))
 ### 🌟 ویژگی ها:
 - حذف تبلیغات جایگاه یک (top chats list)
 - حذف تبلیغات جایگاه دو (Eitaa Trends & group member)
